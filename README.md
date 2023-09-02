@@ -10,7 +10,7 @@
 <img align="left" alt="Ug Aka" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/ug_aka">
-<img align="left" alt="Ug Aka" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="Ug Aka" width="22px" src="https://www.svgrepo.com/svg/475658/instagram-color" />
 </a>
 <br />
 
