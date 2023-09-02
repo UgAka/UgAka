@@ -62,5 +62,6 @@ Hi,I'm Ug Aka🙌, a Web Developer, UI/UX Designer and ML Enthusiast. Apart from
 
 
 ![Ug Aka's github stats](https://github-readme-stats.vercel.app/api?username=UgAka&show_icons=true&hide_border=true)
+![Ug Aka's GitHub stats](https://github-readme-stats.vercel.app/api?username=UgAka&show_icons=true&theme=transparent)
 
 
