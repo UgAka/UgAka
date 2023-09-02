@@ -31,17 +31,6 @@ Hi,I'm Amanda AK🙌, a Web Developer, UI/UX Designer and ML Enthusiast. Apart f
 - 📝[Portfolio](https://ugaka.github.io/)
 - ✨ I do graphic designs too draw too.
 
-
-
-
-**Languages and Tools:**
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>### Hello World 👋 It's [Saket!](https://sakigo9.github.io/MyPortfolio/)
-
-<br/>
-
-
 <a href="https://twitter.com/aka1204_ug">
 <img align="left" alt="Ug Aka | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -54,21 +43,6 @@ Hi,I'm Amanda AK🙌, a Web Developer, UI/UX Designer and ML Enthusiast. Apart f
 <br />
 
 <br />
-
-Hi,I'm Amanda AK🙌, a Web Developer, UI/UX Designer and ML Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
-
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
-
-
-**Talking about Personal Stuffs:**
-
-- 🔭 I’m currently a student at Makerere University.
-- 🌱 I’m currently diving deeper in UI/UX.
-- 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
-- 📝[Portfolio](https://UgAka.github.io/)
-- ✨ I can draw too
 
 
 **Languages and Tools:**
