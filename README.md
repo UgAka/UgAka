@@ -9,14 +9,14 @@
 <a href="https://www.linkedin.com/in/ugaka1204">
 <img align="left" alt="Ug Aka" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/sakigo_09/">
+<a href="https://www.instagram.com/ug_aka">
 <img align="left" alt="Ug Aka" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
 
 <br />
 
-Hi,I'm Amanda AK🙌, a Web Developer, UI/UX Designer and ML Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+Hi,I'm Ug Aka🙌, a Web Developer, UI/UX Designer and ML Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
@@ -37,7 +37,7 @@ Hi,I'm Amanda AK🙌, a Web Developer, UI/UX Designer and ML Enthusiast. Apart f
 <a href="https://www.linkedin.com/in/ugaka1204">
 <img align="left" alt="Ug Aka" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/sakigo_09/">
+<a href="https://www.instagram.com/ug_aka/">
 <img align="left" alt="Ug Aka" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
@@ -57,5 +57,10 @@ Hi,I'm Amanda AK🙌, a Web Developer, UI/UX Designer and ML Enthusiast. Apart f
 ![Ug Aka's github stats](https://github-readme-stats.vercel.app/api?username=UgAka&show_icons=true&hide_border=true)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/js/js.png"></code>
+
+
 
