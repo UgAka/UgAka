@@ -1,4 +1,4 @@
-### Hello World 👋 It's [Ug Aka!](https://ugaka.github.io/)
+### Hello World 👋 It's [Amanda!](https://ugaka.github.io/)
 
 <br/>
 
